@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DoubletappAndroidTask2</string>
+    <string name="to_second_activity">Открыть активити 2</string>
+</resources>
